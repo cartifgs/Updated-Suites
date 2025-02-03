@@ -1,0 +1,64 @@
+/* body{
+  display: none;
+} */
+
+#navbar h1{
+  float: none;
+  text-align: center;
+}
+
+#navbar ul{
+  float: none;
+}
+
+#navbar ul li{
+  float: none;
+  text-align: center;
+  border-bottom: 1px dotted #fff;
+}
+
+#navbar ul li a{
+  padding: 10px;
+}
+
+/* Showcase */
+.showcase-content{
+  padding: 70px 15px;
+  text-align: center;
+}
+
+#showcase h1{
+  font-size: 50px;
+}
+
+.showcase-content p{
+  font-size: 16px;
+}
+
+/* Main content */
+#main-content .img {
+  /* float: none; */
+  display: none;
+}
+
+#main-content .content {
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+/* Boxes */
+#boxes .box{
+  float: none;
+  width: 100%;
+}
+
+/* About */
+.img-section{
+  display: none;
+}
+
+.about-section{
+  text-align: center;
+  width: 100%;
+}
